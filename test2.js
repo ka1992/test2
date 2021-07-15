@@ -20,3 +20,5 @@ myFunc1(200, function(price){
   console.log('결과 값은 : ' + price);
 })
 
+//above callback function ate samples
+
